@@ -48,13 +48,13 @@
    依次添加以下所有name以及value。<br>
     ┉┉ ∞ ∞ ┉┉┉┉ ∞ ∞ ┉┉┉ <br>
      Name:<code>USER</code><br>
-     Value：<code>填写你的习讯云账号密码和学校ID,用空格或者空行分开</code><br>
+     Value：<code>1910802336 fgh11321 13087</code><br>
    ┉┉ ∞ ∞ ┉┉┉┉ ∞ ∞ ┉┉┉<br>
      Name：<code>SIGN_GPS</code><br>
-     Value：<code>填写签到的GPS坐标</code><br>
+     Value：<code>121.524846,31.226717</code><br>
     ┉┉ ∞ ∞ ┉┉┉┉ ∞ ∞ ┉┉┉<br>
      Name：<code>ADDRESS_NAME</code><br>
-     Value：<code>签到地址名字</code><br>
+     Value：<code>小巨人机床有限公司</code><br>
     ┉┉ ∞ ∞ ┉┉┉┉ ∞ ∞ ┉┉┉<br>
      Name：<code>SCKEY</code><br>
      Value：<code>填写你的server酱SCKEY码，以SCU开头</code>#申请地址http://sc.ftqq.com/3.version  <br>
